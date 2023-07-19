@@ -1,0 +1,19 @@
+# 忽略vs code插件产生的.history文件夹
+/.history/
+
+# 忽略日志文件
+/.log/
+
+# 忽略cache文件
+/.__pycache__/
+
+/.json/
+
+__pycache__/log.cpython-310.pyc
+__pycache__/device.cpython-310.pyc
+__pycache__/application.cpython-310.pyc
+__pycache__/score.cpython-310.pyc
+
+.vscode/launch.json
+
+log/competition.log
